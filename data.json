@@ -1,0 +1,8 @@
+{
+ "status": {
+  "water": 10,
+  "wind": 12,
+  "statuswater": "Bahaya",
+  "statuswind": "Siaga"
+ }
+}
